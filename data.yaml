@@ -1,0 +1,6 @@
+train: Dataset1_yolov10/train/images
+val: Dataset1_yolov10/val/images
+test: Dataset1_yolov10/test/images
+
+nc: 8
+names: ["Quartzity", "Live_Knot", "Marrow", "resin", "Dead_Knot", "knot_with_crack", "Knot_missing", "Crack"]

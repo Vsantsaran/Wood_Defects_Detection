@@ -1,0 +1,1 @@
+The source codes of the implementations presented in the paper titled "Deep Learning Models for Wood Surface Defects Detection: a comparative evaluation of recent YOLO Models" are available in the src directory.

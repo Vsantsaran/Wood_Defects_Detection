@@ -1,0 +1,12 @@
+train: datasets/ds4000/train/images
+val: datasets/ds4000/val/images
+test: datasets/ds4000/test/images
+
+nc: 8
+names: ["Quartzity", "Live_Knot", "Marrow", "resin", "Dead_Knot", "knot_with_crack", "Knot_missing", "Crack"]
+# This YAML file defines the dataset structure for a new dataset.
+# - train: Path to the training images
+# - val: Path to the validation images
+# - test: Path to the test images
+# - nc: Number of classes in the dataset
+# - names: List of class names corresponding to the classes in the dataset
